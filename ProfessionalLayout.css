@@ -1,0 +1,47 @@
+
+.foodlist {
+    font-family: bookman old style;
+    color: red;
+    height: 400px;
+    width: 300px;
+}
+
+.interests {
+    width: 500px;
+}
+
+h1 {
+    color: black;
+    font-size: 36px;
+}
+
+h2 {
+    color: #ff00ad;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: pink;
+    color: white;
+}
+
+table {
+    font-size: 24px;
+}
+
+body {
+    font-family: bookman old style;
+}
+
+head {
+    background-color: white;
+    height: 250px;
+}
+.Filled {
+    background-color: #FFB2E6;
+    text-align: center;
+}
+
