@@ -1,0 +1,25 @@
+      body {
+           background-image: url(http://www.vectorfree.com/media/vectors/colorful-shapes-background.jpg);
+       }
+       h2 {
+           
+           animation-name: topFadeOut;
+           animation-duration: 5s;
+           overflow:hidden;
+       }
+       h2:hover{
+           color:deeppink;
+       }
+
+       @keyframes topFadeOut {
+
+           from {
+               margin-left: 100%;
+               width: 300%
+           }
+
+           to {
+               margin-left: 0%;
+               width: 100%;
+           }
+       }
