@@ -43,14 +43,4 @@ body {
     opacity: 0; }
   to {
     opacity: 1; } }
- <script>
-        function ShowHide() {
-            var x = document.getElementById("Hidden");
-            if (x.style.display === "none") {
-                x.style.display = "block";
-            } else {
-                x.style.display = "none";
-            }
-        }
-    </script>
 
