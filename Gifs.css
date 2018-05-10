@@ -1,0 +1,49 @@
+
+#Intro {
+    color: white;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    clear: all;
+    text-align: center;
+    margin: 30px;
+    max-height: 300px;
+}
+
+.btn {
+    display: block;
+    text-decoration: none;
+    color: white;
+    border: 1px outset blue;
+    background-color: #006599;
+    height: 50px;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+
+    .btn:hover {
+        background-color: #b3d4fc;
+        color: #006599;
+    }
+
+input[type="text"] {
+    margin: 30px 0px 30px 0;
+    font-size: 18px;
+    appearance: none;
+    box-shadow: none;
+    border-radius: none;
+    padding: 10px;
+    border: solid 5px #c9c9c9;
+    transition: border 0.3s;
+}
