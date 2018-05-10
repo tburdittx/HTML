@@ -3,7 +3,7 @@ const API_KEY = "apiKey=8dHGvhpcAH8zaegGhpK1oJ1pKWpFSEU5"
 const URL = "https://api.giphy.com/v1"
 
 const RANDOM_END_POINT = "/gifs/random?"
-const TRENDING_END_POINT = "/gifs/trending?"
+const TRENDING_END_POINT = "/gifs/trending"
 
 function getGif() {
     // we create a new instance of an HTTP request
